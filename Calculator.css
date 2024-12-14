@@ -1,0 +1,29 @@
+button {
+    background-color: burlywood;
+    width: 100%;
+    height: 100%;
+    
+}
+
+table{
+    height:300px;
+    width: 300px;
+    background-color: rgb(175, 163, 163);
+    box-shadow: 5px 5px ;
+}
+.screen{
+    height: 95%;
+    width: 97%;
+    font-size: larger;
+}
+
+caption{
+    font-size: larger;
+    font-weight: 700;
+    color: darkcyan;
+}
+h3{
+    font-size: medium;
+    font-weight: 700;
+    color: darkcyan;
+}
