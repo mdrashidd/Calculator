@@ -23,7 +23,7 @@ Lightweight and efficient with a clean interface.
 </p>
 <h2>Demo</h2>
 </p>
-Check out a live demo <a>here</a>.
+Check out a live demo <a href="https://mdrashidd.github.io/Calculator/">here</a>.
 </p>
 <h2>Project Structure</h2>
 <br>
